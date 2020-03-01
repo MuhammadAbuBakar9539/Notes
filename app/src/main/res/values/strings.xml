@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Title</string>
+    <string name="note_description">Note Description</string>
+    <string name="save">SAVE</string>
+    <string name="update">UPDATE</string>
+    <string name="add_note_message">Note added successfully</string>
+    <string name="update_note_message">Note updated successfully</string>
+    <string name="add_note_empty">Empty note can not be added</string>
+    <string name="update_note_empty">Empty note can not be added</string>
+    <string name="retry">Retry</string>
+    <string name="add_note_error">Note could not added successfully</string>
+    <string name="update_note_error">Note could not updated successfully</string>
+    <string name="new_note">New Note</string>
+    <string name="update_note">Update Note</string>
+</resources>
